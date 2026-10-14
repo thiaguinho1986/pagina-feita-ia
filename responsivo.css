@@ -1,0 +1,66 @@
+@media screen and (max-width:1024px) {
+    .logo {
+        width: 100%;
+        height: 100%;
+        margin-left: 30%;
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    nav {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+    }
+
+    .text1 {
+        margin-left: 10%;
+    }
+
+    .text2 {
+        display: none;
+    }
+
+    .text3, .text4, .text5{
+        width: 100%;
+        height: 100%;
+        margin: auto;
+    }
+
+    .text10, .text11, .text12, .text13, .text14, .text15 {
+        width: 100%;
+        height: 100%;
+        margin: auto;
+        margin-top: 4px;
+    }
+    
+    .por-dentro-da--maquina {
+        width: 100%;
+        height: 100%;
+    }
+
+    .text17 {
+        width: 100%;
+        height: 50%;
+        margin: auto;
+        margin-top: 10px;
+    }
+
+    .o-capítulo-atual {
+        width: 100%;
+        height: 100%;
+    }
+
+    .text18 {
+        width: 100%;
+        height: 50%;
+        margin: auto;
+        margin-top: 10px;
+    }
+
+    footer a {
+        margin-top: 5px;
+    }
+}
