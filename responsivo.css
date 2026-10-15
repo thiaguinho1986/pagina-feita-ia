@@ -69,4 +69,8 @@
     footer a {
         margin-top: 5px;
     }
+
+    .linha {
+        display: none;
+    }
 }
